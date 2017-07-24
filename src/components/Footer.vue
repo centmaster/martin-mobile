@@ -1,13 +1,13 @@
 <template>
   <div>
     <tabbar>
-      <tabbar-item>
-        <span slot="label">Wechat</span>
+      <tabbar-item  link="/">
+          <span slot="label">We2</span>
       </tabbar-item>
-      <tabbar-item>
-        <span slot="label">Message</span>
+      <tabbar-item  link="/remember">
+        <span slot="label">Remember</span>
       </tabbar-item>
-      <tabbar-item selected link="/component/demo">
+      <tabbar-item  link="/explore">
         <span slot="label">Explore</span>
       </tabbar-item>
     </tabbar>
@@ -22,6 +22,10 @@
       TabbarItem,
       Group,
       Cell
+    },
+    methods:{
+
+
     }
   }
 </script>

@@ -2,20 +2,16 @@
 
 > A Vue.js project
 
-## Build Setup
+#### 目的
 
-``` bash
-# install dependencies
-npm install
+为了感受移动端跟web开发的区别吧
 
-# serve with hot reload at localhost:8080
-npm run dev
+#### 使用了啥
 
-# build for production with minification
-npm run build
+vue+vuex+vux+vue-router
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+是不是眼花了，哈哈哈
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+#### 想要做成什么样
+
+目前的想法做一个我俩的空间。其实最难的感觉是不知道要做什么，而不是怎么做
